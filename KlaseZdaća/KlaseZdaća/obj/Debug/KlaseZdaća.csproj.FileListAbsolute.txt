@@ -1,0 +1,8 @@
+C:\Users\Osoba\Documents\Skola\KlaseZdaća\KlaseZdaća\bin\Debug\KlaseZdaća.exe.config
+C:\Users\Osoba\Documents\Skola\KlaseZdaća\KlaseZdaća\bin\Debug\KlaseZdaća.exe
+C:\Users\Osoba\Documents\Skola\KlaseZdaća\KlaseZdaća\bin\Debug\KlaseZdaća.pdb
+C:\Users\Osoba\Documents\Skola\KlaseZdaća\KlaseZdaća\obj\Debug\KlaseZdaća.csproj.AssemblyReference.cache
+C:\Users\Osoba\Documents\Skola\KlaseZdaća\KlaseZdaća\obj\Debug\KlaseZdaća.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osoba\Documents\Skola\KlaseZdaća\KlaseZdaća\obj\Debug\KlaseZdaća.csproj.CoreCompileInputs.cache
+C:\Users\Osoba\Documents\Skola\KlaseZdaća\KlaseZdaća\obj\Debug\KlaseZdaća.exe
+C:\Users\Osoba\Documents\Skola\KlaseZdaća\KlaseZdaća\obj\Debug\KlaseZdaća.pdb
